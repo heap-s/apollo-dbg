@@ -40,6 +40,4 @@ After 20 successfully merged PRs with demonstrable technical depth, you may be i
 - Stable releases (e.g. v1.0-stable-rc1) emerge when Apollo is fully functional.  
 - Nightly releases (e.g. v1.1-nightly-rc) address patches/bug fixes and do not merge into master.
 
----
 
-*Do you see any improvements that would enhance this README?*
